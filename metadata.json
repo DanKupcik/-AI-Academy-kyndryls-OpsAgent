@@ -1,0 +1,5 @@
+{
+  "name": "Ops Focus Copilot-DRAFT_idea",
+  "description": "An intelligent operational monitoring dashboard that unifies signals from Teams, Outlook, and GLPI. Features a Hyperfocus Guardian mode to filter noise and uses Gemini AI to prioritize incidents and suggest ITIL-compliant actions.",
+  "requestFramePermissions": []
+}
